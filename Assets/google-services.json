@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978622640231",
+    "project_id": "servicios-1-9714c",
+    "storage_bucket": "servicios-1-9714c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978622640231:android:5e60dd4e0007794e4264c2",
+        "android_client_info": {
+          "package_name": "com.CamiDuran.CamiloDuranServiciosActividad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJiTFy0muzEcUdfSQ0q5NwjYQ3Vcjl-Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
