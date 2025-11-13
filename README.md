@@ -1,6 +1,6 @@
 # 📘 Taller Servicios Camilo Duran
 
-This project was developed in Unity as part of an academic exercise for the *Cloud Services Workshop*.  
+This project was developed in Unity as part of an academic exercise
 It demonstrates the integration of **Firebase Firestore** with Unity for data persistence and leaderboard management.
 
 ---
